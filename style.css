@@ -1,0 +1,58 @@
+body
+{
+background: linear-gradient(to right, #ff0000, #ffe600)
+}
+
+#bck{
+    float: right;
+    background-color: blue;
+    border-radius: 10%;
+    color: white;
+    border-color: white;
+    border-width: 2px;
+}
+
+#bed
+{   
+    cursor:pointer;
+    width: 50%;
+    background-color: white;
+    border-radius:5%;
+    border-color: white;
+}
+
+#Ta
+{
+    cursor:pointer;
+    width: 50%;
+    background-color: white;
+    border-radius: 5%;
+    border-color: white;
+}
+
+#fb
+{
+    cursor:pointer;
+    width: 50%;
+    background-color: white;
+    border-radius: 5%;
+    border-color: white;
+}
+
+#de
+{
+    cursor:pointer;
+    width: 50%;
+    background-color: white;
+    border-radius: 5%;
+    border-color: white;
+}
+
+#bot
+{
+    cursor:pointer;
+    width: 50%;
+    background-color: white;
+    border-radius: 5%;
+    border-color: white;
+}
